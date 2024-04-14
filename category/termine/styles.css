@@ -50,8 +50,7 @@ body {
 }
 
 /* Überschriften */
-h1,
-h2 {
+h1, h2 {
     color: #333333;
     text-align: center;
     margin-top: 50px;
@@ -75,9 +74,7 @@ a:hover {
 }
 
 /* Container für Social Media Links und Kontaktinformationen */
-.social-links,
-.contact-info,
-.demo-date {
+.social-links, .contact-info, .demo-date {
     text-align: center;
     margin-top: 30px;
 }
